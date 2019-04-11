@@ -1,0 +1,8 @@
+{
+  "eslint.autoFixOnSave": true,
+  "javascript.validate.enable": false,
+  "files.associations": {
+    "*.sequelizerc": "javascript"
+  },
+  "javascript.preferences.quoteStyle": "single"
+}
